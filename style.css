@@ -73,7 +73,7 @@ img{
 }
 .section-title{
   position: relative;
-  font-size: var(--h2-font-size);
+  font-size: var(--h1-font-size);
   color: var(--first-color);
   margin-top: var(--mb-2);
   margin-bottom: var(--mb-4);
