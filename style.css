@@ -255,7 +255,7 @@ img{
 .about__text{
   text-align: justify;
   color: white;
-  font-size:x-large;
+  font-size:20vw;
 }
 .about__container{
   row-gap: 2rem;
